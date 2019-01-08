@@ -1,4 +1,6 @@
-掘金（API接口） 前端地址： <https://coding.net/u/yangzhuo2/p/chonging/git>
+
+仿掘金（API接口）
+前端地址： https://coding.net/u/yangzhuo2/p/chonging/git
 
 api接口地址（之前的版本，如果打不开，请查看网速） https://documenter.getpostman.com/view/5960437/Rzn6uNG7#1a7d50df-1aa0-47c9-a75e-ef9f3729dbb8
 
@@ -19,6 +21,7 @@ api接口地址（之前的版本，如果打不开，请查看网速） https:/
 环境搭建：
 
 ​	laradock(docker、nginx、phpfpm、mysql、redis、elasticsearch)
+<<<<<<< HEAD
 
 ![](./Screenshots/1.png)
 
@@ -29,3 +32,5 @@ api接口地址（之前的版本，如果打不开，请查看网速） https:/
 ![](./Screenshots/4.png)
 
 ![](./Screenshots/5.png)
+=======
+>>>>>>> 9da0646caecf0c4cb127e6db5ebfbedd2f977128
